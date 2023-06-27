@@ -2,7 +2,7 @@
 @CHARSET "UTF-8";
 
 .embed_jobs_head {
-	background-color: #121212;
+	background-color: #fbfbfb;
 	padding: 50px;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: auto;
@@ -13,7 +13,7 @@
 }
 
 .embed_jobs_head2 {
-	background-color: #121212;
+	background-color: var(--white-color);
 	margin: auto;
 	font: normal 14px lucida grande, lucida sans, lucida sans unicode, arial,helvetica, verdana, sans-serif;
 	border: 1px solid #eee;
@@ -34,7 +34,7 @@
 }
 
 .embed_jobs_head3 {
-	color: #FFFFF;
+	color: #767676;
 	line-height: 27px;
 }
 
@@ -78,7 +78,7 @@
      font-weight: bold;
 }
  .embed_jobs_with_style .cw-facet-checkbox-label span{
- 	color: #FFFFFF;
+ 	color: #747789;
  	font-weight: normal;
 }
  .embed_jobs_with_style ul,.embed_jobs_with_style li{
