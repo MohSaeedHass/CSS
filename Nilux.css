@@ -118,13 +118,13 @@
 	width: 47%;
 	box-sizing: border-box;
 	float: left;
-	color: #4a4a4a;
+	color: #ffffff;
 }
 .embed_jobs_with_style .rec-group li span:first-child{
 	padding-right: 8px;
 	/* width:50%; */
 	display:inline-block;
-	color: #848484;
+	color: #ffffff;
 }
 .embed_jobs_with_style  li.rec-job-title:before,.embed_jobs_with_style  li.zrsite_Job_Description:before{
 	display:none
@@ -136,7 +136,7 @@
 .embed_jobs_with_style  li.zrsite_Job_Description{
 	margin-top:16px;
 	line-height:20px;
-	color: #50566d;
+	color: #ffffff;
 }
 .embed_jobs_with_style .rec-group li.rec-job-title{
 	margin-bottom: 8px;
@@ -150,7 +150,7 @@
 	float: none;
 }
 .embed_jobs_with_style .rec-job-info a{
-	color: #338cf0;
+	color: #ffffff;
 	text-decoration: none;
 	font-weight: bold;
 }
